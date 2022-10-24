@@ -1,4 +1,4 @@
-﻿namespace Rdm.Spectre.Console.Extensions.Menu
+﻿namespace SpectreConsoleExtensions.Menu
 {
     public abstract class MenuNode
     {

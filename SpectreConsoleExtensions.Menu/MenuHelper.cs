@@ -1,7 +1,7 @@
 ﻿using Spectre.Console;
 using System.Xml.Linq;
 
-namespace Rdm.Spectre.Console.Extensions.Menu
+namespace SpectreConsoleExtensions.Menu
 {
     public static class MenuHelper
     {
